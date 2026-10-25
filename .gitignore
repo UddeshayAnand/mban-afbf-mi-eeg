@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+.ipynb_checkpoints/
+data/
+results*/
+*.mat
+*.h5
+
+# Local environment and operating-system files
+.env
+.env.*
+.DS_Store
+Thumbs.db
